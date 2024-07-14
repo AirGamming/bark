@@ -69,4 +69,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-<iframe src="./checklist.md" width="100%" height="100%"></iframe>
+### todo
+
+- [X] Set up project repository
+- [ ] design main page
+- [ ] design database schema
+- [ ] Implement user authentication
+- [ ] Create tweet functionality
+- [ ] Develop user profile pages
+- [ ] Add follow/unfollow feature
+- [ ] Implement like and retweet functionality
+- [ ] Set up real-time updates with WebSockets
+- [ ] Implement search functionality
+- [ ] Implement notifications
+- [ ] Implement message functionality
+- [ ] Implement security measures
+- [ ] Implement error handling
+- [ ] Implement testing
+- [ ] Implement deployment
