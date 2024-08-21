@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client'
 // css
 import './css/index.css'
 //  jsx
-import Nav from './nav.tsx' ;
+import Nav from './Nav.tsx' ;
 
 document.title = "Bark"
 

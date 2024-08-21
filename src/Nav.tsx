@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faDog } from "@fortawesome/free-solid-svg-icons";
+import { faDog, faStar, faHouse, faUser} from "@fortawesome/free-solid-svg-icons";
 import './css/nav.css'
 export default function Nav() {
     return(
@@ -7,9 +7,9 @@ export default function Nav() {
            <h4><FontAwesomeIcon icon={faDog} /> Bark</h4>
 
             <ul>
-                <li>HOME</li>
-                <li>TRENDING</li>
-                <li>PREMIUM</li>
+                <li className='active'><FontAwesomeIcon icon={faHouse} /> HOME</li>
+                <li><FontAwesomeIcon icon={faUser} /> PROFILE</li>
+                <li><FontAwesomeIcon icon={faStar}/> PREMIUM</li>
             </ul>
         </nav>
     )
